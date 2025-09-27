@@ -52,4 +52,7 @@ fruits = ["orange", "banana", "cherry", "apple", "cherry", "pear", 3]
 
 print(fruits[6:1:-1])
 
+# Python Github practice
+
+
 
